@@ -1,2 +1,4 @@
 # WindFarm2
-Documentation [HERE](./Staggered_NavierStokes_Solver.pdf)
+Wind Farm simulation using an incompressible Navier Stokes solver with collocated grid. 
+
+Documentation [HERE](./?.pdf)
